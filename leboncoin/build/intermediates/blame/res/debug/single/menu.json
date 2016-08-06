@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_depose.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_depose.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search_plus.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_search_plus.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_carte_france.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_carte_france.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_favorite.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_favorite.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_offre.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_offre.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recherche.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_recherche.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\menu\\menu_send_email.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\menu\\menu_send_email.xml"
+    }
+]

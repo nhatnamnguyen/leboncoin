@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_3.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_3.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_14.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_14.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__toast_frame.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_normal.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_about.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\bottom_bar.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_recherche_edit.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_recherche_edit.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_15.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_15.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_4.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_4.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_recherche_delete.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_recherche_delete.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_change_localisation.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_change_localisation.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_5.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_5.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_data_regions.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_data_regions.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_13.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_13.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_2.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_2.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_mes_annonces_en_ligne.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_mes_annonces_en_ligne.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_longpressed_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_16.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_16.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_recherche_add.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_recherche_add.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_17.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_17.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_background.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_read_background.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\list_item_read_background.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_input_error.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\indicator_input_error.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_20.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_20.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_my_location.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_my_location.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_1.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_1.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_26.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_26.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_11.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_11.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_7.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_7.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_pressed_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_activated_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\preview_image_default.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\preview_image_default.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\carte_france_layer.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\carte_france_layer.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_23.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_23.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_shadow_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_22.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_22.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_category.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_category.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_21.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_21.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_10.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_10.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_all_regions.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_all_regions.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_refresh.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_8.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_8.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_19.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_19.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_24.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_24.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_focused_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_6.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_6.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_25.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_25.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_send_email.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_send_email.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_18.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_18.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_12.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\map_12.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_focused_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_localisation.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_localisation.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_favorite_delete.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\drawable-hdpi\\ic_menu_favorite_delete.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_dark.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_default_holo_light.9.png"
+    }
+]

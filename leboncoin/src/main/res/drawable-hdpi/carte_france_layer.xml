@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/map_1" />
+    <item android:drawable="@drawable/map_2" />
+    <item android:drawable="@drawable/map_3" />
+    <item android:drawable="@drawable/map_4" />
+    <item android:drawable="@drawable/map_5" />
+    <item android:drawable="@drawable/map_6" />
+    <item android:drawable="@drawable/map_7" />
+    <item android:drawable="@drawable/map_8" />
+    <item android:drawable="@drawable/map_9" />
+    <item android:drawable="@drawable/map_10" />
+	<item android:drawable="@drawable/map_11" />
+	<item android:drawable="@drawable/map_12" />
+	<item android:drawable="@drawable/map_13" />
+	<item android:drawable="@drawable/map_14" />
+	<item android:drawable="@drawable/map_15" />
+	<item android:drawable="@drawable/map_16" />
+	<item android:drawable="@drawable/map_17" />
+	<item android:drawable="@drawable/map_18" />
+	<item android:drawable="@drawable/map_19" />
+	<item android:drawable="@drawable/map_20" />
+	<item android:drawable="@drawable/map_21" />    
+	<item android:drawable="@drawable/map_22" />
+	<item android:drawable="@drawable/map_23" />
+	<item android:drawable="@drawable/map_24" />
+	<item android:drawable="@drawable/map_25" />
+	<item android:drawable="@drawable/map_26" />
+</layer-list>

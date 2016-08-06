@@ -10,14 +10,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/leboncoin" />
-            <option value="$PROJECT_DIR$/viewPagerIndicator" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/leboncoin" />
-            <option value="$PROJECT_DIR$/viewPagerIndicator" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item
+        android:id="@+id/menu_favorite_delete"
+        android:icon="@drawable/ic_menu_favorite_delete"
+        android:showAsAction="always"
+        android:title="@string/menu_favorite_delete"
+        android:visible="true">
+    </item>
+</menu>

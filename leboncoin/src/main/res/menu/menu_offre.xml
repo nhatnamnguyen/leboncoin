@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_menu_refresh"
+        android:showAsAction="always"
+        android:title="@string/menu_refresh"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/menu_localisation"
+        android:icon="@drawable/ic_menu_localisation"
+        android:showAsAction="always"
+        android:title="@string/menu_localisation"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/menu_category"
+        android:icon="@drawable/ic_menu_category"
+        android:showAsAction="always"
+        android:title="@string/menu_category"
+        android:visible="true">
+    </item>
+    
+    
+     <item
+         android:id="@+id/menu_about"
+         android:icon="@drawable/ic_menu_about"
+         android:showAsAction="never"
+         android:title="@string/menu_about">
+     </item>
+     <item
+         android:id="@+id/menu_delete_annonce"
+         android:icon="@drawable/ic_menu_mes_annonces_en_ligne"
+         android:showAsAction="never"
+         android:title="@string/menu_delete_annonce">
+     </item>
+     <item
+         android:id="@+id/menu_mes_annonces_en_ligne"
+         android:icon="@drawable/ic_menu_mes_annonces_en_ligne"
+         android:showAsAction="never"
+         android:title="@string/menu_mes_annonces_en_ligne">
+     </item>
+     <item
+         android:id="@+id/menu_change_localisation"
+         android:icon="@drawable/ic_menu_change_localisation"
+         android:showAsAction="never"
+         android:title="@string/menu_change_localisation">
+     </item>
+     <item
+         android:id="@+id/menu_search"
+         android:icon="@android:drawable/ic_menu_search"
+         android:showAsAction="never"
+         android:title="@string/menu_search_plus">
+     </item>
+</menu>

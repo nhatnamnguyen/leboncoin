@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme" parent="Sherlock.__Theme">
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator.Custom</item>
+    </style>
+
+    <style name="Theme.SplittedBar">
+        <item name="android:actionModeCloseDrawable">@drawable/abs__ic_ab_back_holo_light</item>
+    </style>
+    
+    <style name="Dialog" parent="Theme.Sherlock.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator.Custom</item>
+    </style>
+
+    <style name="Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Widget.TabPageIndicator.Custom">
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator.Custom</item>
+    </style>
+
+    <style name="TextAppearance.TabPageIndicator.Custom">
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+
+    <style name="text_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+
+    <style name="Widget.Progressbar" parent="android:Widget.ProgressBar.Large" />
+ 
+    
+    
+</resources>

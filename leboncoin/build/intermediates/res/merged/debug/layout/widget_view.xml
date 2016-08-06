@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:background="@color/leboncoin_light">
+
+	<ImageView android:id="@+id/widget_image"
+	    android:layout_width="wrap_content" android:layout_height="wrap_content"
+	    android:layout_gravity="center_vertical|left"
+	    android:src="@drawable/preview_image_default" />
+	
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"  
+	    android:orientation="vertical" android:layout_gravity="center_vertical"
+	    android:paddingLeft="7dip" android:paddingRight="7dip" 
+	    android:paddingBottom="5dip" android:baselineAligned="false" >
+		<TextView
+    	    android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:id="@+id/offre_title"
+        	android:textColor="@color/list_item_text"
+        	android:text="Titre" />
+		
+		<TextView
+    	    android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:id="@+id/offre_price"
+        	android:textColor="@color/list_item_text"
+        	android:text="Price" />
+	    
+	</LinearLayout>
+</LinearLayout>

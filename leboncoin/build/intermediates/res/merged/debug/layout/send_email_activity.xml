@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+	
+	    <TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre nom:"/>
+		<EditText
+			android:id="@+id/name"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:singleLine="true"
+			android:inputType="textCapWords"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre adresse email:"/>
+		<EditText
+			android:id="@+id/email"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:inputType="textEmailAddress"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre téléphone (facultatif):"/>
+		<EditText
+			android:id="@+id/phone"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:inputType="phone|number"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Texte:"/>
+		<EditText
+			android:id="@+id/text"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:gravity="top|left"
+			android:minLines="5"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<CheckBox android:id="@+id/cc" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:checked="true"/>
+			<TextView android:id="@+id/textview_cc" 
+			    android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:text="Recevoir une copie par mail"/>
+		</LinearLayout>
+	</LinearLayout>
+</ScrollView>

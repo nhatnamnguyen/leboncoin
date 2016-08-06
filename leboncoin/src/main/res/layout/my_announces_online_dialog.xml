@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/default_padding"
+        android:paddingLeft="@dimen/default_padding"
+        android:paddingRight="@dimen/default_padding"
+        android:text="Pour recevoir vos annonces actives par mail, remplissez ci-dessous votre adresse email renseignée lors de votre dépôt d'annonce. Si vous avez utilisé plusieurs adresses email pour des annonces différentes, vous devez faire la demande pour chaque adresse."/>
+	
+	<TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/default_padding"
+        android:paddingLeft="@dimen/default_padding"
+        android:paddingRight="@dimen/default_padding"
+        android:text="Votre adresse email:"/>
+	
+	<EditText
+		android:id="@+id/email"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/default_padding"
+		android:paddingRight="@dimen/default_padding"
+		android:paddingBottom="@dimen/default_padding"
+		android:inputType="textEmailAddress"/>
+</LinearLayout>

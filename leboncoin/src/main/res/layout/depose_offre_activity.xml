@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+	
+	    <TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Déposer une annonce sur Leboncoin.fr est GRATUIT. Votre annonce sera validée par notre équipe éditoriale avant mise en ligne. Elle restera sur le site pendant 60 jours. Pendant cette période, vous pourrez la supprimer à tout moment."/>
+	    
+		<Spinner android:id="@+id/depose_region"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:entries="@array/region_array"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<TextView android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="left|center_vertical"
+				android:layout_weight="1.0"
+				android:text="Code postal"/>
+			<EditText android:id="@+id/depose_zip_code" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center_vertical"
+				android:minWidth="100dip"
+				android:inputType="number"/>
+		</LinearLayout>
+		
+		<Spinner android:id="@+id/depose_category"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:entries="@array/category_array"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre nom:"/>
+		<EditText
+			android:id="@+id/depose_name"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:singleLine="true"
+			android:inputType="textCapWords"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre adresse email:"/>
+		<EditText
+			android:id="@+id/depose_email"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:inputType="textEmailAddress"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Votre téléphone (facultatif):"/>
+		<EditText
+			android:id="@+id/depose_phone"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:inputType="phone|number"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Titre de l'annonce: "/>
+		<EditText
+			android:id="@+id/depose_title"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:singleLine="true"
+			android:inputType="textCapWords"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"/>
+		
+		<TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Texte de l'annonce: "/>
+		<EditText
+			android:id="@+id/depose_text"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"
+			android:gravity="top|left"
+			android:minLines="5"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<TextView android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="left|center_vertical"
+				android:layout_weight="1.0"
+				android:text="Prix:"/>
+			<EditText android:id="@+id/depose_price" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center_vertical"
+				android:minWidth="100dip"
+				android:inputType="number"/>
+		</LinearLayout>
+		
+		<ImageView
+			android:id="@+id/depose_image_1"
+			android:layout_width="200dip"
+			android:layout_height="200dip"
+			android:layout_gravity="center_horizontal"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding" />
+		
+		
+		<Button android:id="@+id/depose_insert_photos" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:layout_gravity="center_horizontal"
+		    android:background="@android:drawable/ic_menu_camera"/>
+	</LinearLayout>
+</ScrollView>

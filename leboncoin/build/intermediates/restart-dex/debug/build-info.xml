@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="6118398356701"
+    token="2840733477313304737" >
+
+    <task
+        name="javac"
+        duration="7854" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3577" />
+    <task
+        name="verifier"
+        duration="678" />
+
+    <artifact
+        location="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\outputs\apk\leboncoin-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6118398356701" >
+        <artifact
+            location="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\outputs\apk\leboncoin-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:id="@+id/scroll_id">
+	
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    android:orientation="vertical" android:padding="@dimen/default_padding"
+	    android:id="@+id/offre_parent">
+	    
+	    <TextView android:id="@+id/title"
+	        android:layout_width="fill_parent" android:layout_height="wrap_content"
+	        android:textStyle="bold" android:gravity="center_horizontal"
+	        />
+	    
+	    <TextView android:id="@+id/author_name"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        />
+	    
+	    <TextView android:id="@+id/date"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        />
+	  
+	    <ImageView android:id="@+id/image1"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        />
+	    
+	    <ImageView android:id="@+id/image2"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        />
+	    
+	    <ImageView android:id="@+id/image3"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        />
+	    
+	    <TextView android:id="@+id/price"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        />
+	    
+	    <TextView android:id="@+id/localisation"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        />
+	    
+	    <TextView android:id="@+id/description"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        />
+	    
+	    <LinearLayout android:orientation="horizontal"
+	        android:layout_width="fill_parent" android:layout_height="wrap_content"
+	        android:weightSum="3.0">
+	       <Button android:id="@+id/call_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0"
+	            android:text="Call"/>
+	        <Button android:id="@+id/add_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0" 
+	            android:text="Add"/>
+	        <Button android:id="@+id/send_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0" 
+	            android:text="Send"/>
+	    </LinearLayout>
+	
+	    <LinearLayout android:orientation="horizontal"
+	        android:layout_width="fill_parent" android:layout_height="wrap_content"
+	        android:weightSum="3.0">
+	        <Button android:id="@+id/suggest_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0" 
+	            android:text="Suggest"/>
+	        <Button android:id="@+id/save_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0" 
+	            android:text="Save"/>
+	        <Button android:id="@+id/delete_me"
+	            android:layout_width="fill_parent" android:layout_height="wrap_content"
+	            android:layout_weight="1.0" 
+	            android:text="Delete"/>
+	    </LinearLayout>
+	
+	</LinearLayout>
+</ScrollView>

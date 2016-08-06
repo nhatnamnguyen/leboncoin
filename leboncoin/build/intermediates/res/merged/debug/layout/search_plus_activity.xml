@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+	
+	    <TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="@dimen/default_padding"
+	        android:paddingLeft="@dimen/default_padding"
+	        android:paddingRight="@dimen/default_padding"
+	        android:text="Mot clé:"/>
+		<EditText
+			android:id="@+id/search_key"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:singleLine="true"
+			android:paddingLeft="@dimen/default_padding"
+			android:paddingRight="@dimen/default_padding"
+			android:paddingBottom="@dimen/default_padding"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<CheckBox android:id="@+id/search_in_title" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"/>
+			<TextView android:id="@+id/text_search_in_title" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:text="Recherche dans le titre uniquement"/>
+		</LinearLayout>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<CheckBox android:id="@+id/search_urgent" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"/>
+			<TextView android:id="@+id/text_search_urgent" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:text="Annonces urgentes * uniquement"/>
+		</LinearLayout>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal"
+		    android:weightSum="2.0">
+			<Spinner android:id="@+id/search_price_min"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1.0"/>
+			
+			<Spinner android:id="@+id/search_price_max"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_weight="1.0"/>
+		</LinearLayout>
+		
+
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<Spinner android:id="@+id/search_year_min"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1.0"/>
+			<Spinner android:id="@+id/search_year_max"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_weight="1.0"/>
+		</LinearLayout>
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<Spinner android:id="@+id/search_km_min"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1.0"/>
+			<Spinner android:id="@+id/search_km_max"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_weight="1.0"/>
+		</LinearLayout>
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal"
+		    android:weightSum="2.0">
+			<Spinner android:id="@+id/search_energie"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1.0"/>
+			<Spinner android:id="@+id/search_boite_vitesse"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_weight="1.0"/>
+		</LinearLayout>
+		
+		
+		<Spinner android:id="@+id/search_par_pro"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:entries="@array/par_pro_arrays"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/default_padding"
+		    android:paddingLeft="@dimen/default_padding"
+		    android:paddingRight="@dimen/default_padding"
+		    android:orientation="horizontal">
+			<TextView android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="left|center_vertical"
+				android:layout_weight="1.0"
+				android:text="Code postal"/>
+			<EditText android:id="@+id/search_zip_code" 
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center_vertical"
+				android:minWidth="100dip"
+				android:inputType="number"/>
+		</LinearLayout>
+		
+	</LinearLayout>
+</ScrollView>

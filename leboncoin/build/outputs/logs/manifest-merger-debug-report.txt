@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:1:1-81:12
+	package
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
+MERGED from [com.viewpagerindicator:library:2.4.1] C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\AndroidManifest.xml:3:5-42
+	android:targetSdkVersion
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:10:2-64
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:10:19-61
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:11:2-66
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:11:19-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:12:2-76
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:12:19-73
+uses-permission#android.permission.CAMERA
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:13:2-62
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:13:19-59
+uses-feature#android.hardware.camera
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:14:2-57
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:14:16-54
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:15:2-67
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:15:16-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:16:2-78
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:16:19-75
+application
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:19:5-80:19
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
+	android:label
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:23:9-40
+activity#com.nhatnam.android.leboncoin.activities.Launcher
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:26:13-45
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:27:13-60
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:25:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:31:27-74
+activity#com.nhatnam.android.leboncoin.activities.CarteFranceActivity
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:34:9-39:20
+	android:screenOrientation
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:36:13-49
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:37:13-37
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:38:13-60
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:35:13-59
+activity#com.nhatnam.android.leboncoin.activities.MainActivity
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:40:9-44:20
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:42:13-37
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:41:13-52
+activity#com.nhatnam.android.leboncoin.activities.OffreDetailActivity
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:45:9-49:20
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:47:13-37
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:48:13-60
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:46:13-59
+activity#com.nhatnam.android.leboncoin.activities.SendEmailActivity
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:50:9-54:20
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:52:13-37
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:53:13-73
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:51:13-57
+activity#com.nhatnam.android.leboncoin.activities.SearchPlusActivity
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:55:9-59:20
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:57:13-37
+	android:windowSoftInputMode
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:56:13-58
+provider#com.nhatnam.android.leboncoin.providers.OffresProvider
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:62:9-66:20
+	android:authorities
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:65:13-73
+	android:exported
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:63:13-53
+receiver#com.nhatnam.android.leboncoin.widget.WidgetProvider
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:69:9-78:20
+	android:label
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:70:7-42
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:71:7-73
+intent-filter#android.appwidget.action.APPWIDGET_DISABLED+android.appwidget.action.APPWIDGET_ENABLED+android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:72:13-76:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:73:17-84
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:73:25-81
+action#android.appwidget.action.APPWIDGET_ENABLED
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:74:17-85
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:74:25-82
+action#android.appwidget.action.APPWIDGET_DISABLED
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:75:17-86
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:75:25-83
+meta-data#android.appwidget.provider
+ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:77:13-108
+	android:resource
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:77:66-105
+	android:name
+		ADDED from C:\dev\workspace-android-studio\leboncoin\leboncoin\src\main\AndroidManifest.xml:77:24-65

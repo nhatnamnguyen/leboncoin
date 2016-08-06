@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">leboncoin</string>
+    
+    <string name="menu_my_location">My location</string>
+    
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_localisation">Localisation</string>
+    <string name="menu_about">A propos</string>
+    <string name="menu_delete_annonce">Supprimer une annonce</string>
+    <string name="menu_mes_annonces_en_ligne">Mes annonces</string>
+    <string name="menu_change_localisation">Changer la région</string>
+    <string name="menu_search_plus">Recherche plus</string>
+    
+    <string name="menu_recherche_add">Add</string>
+    <string name="menu_recherche_edit">Edit</string>
+    <string name="menu_recherche_delete">Delete</string>
+
+    <string name="menu_favorite_delete">Delete</string>
+    <string name="favorite_delete_ok_button">Delete</string>
+    <string name="favorite_delete_cancel_button">Cancel</string>
+    
+    <string name="menu_depose_ok">Soumettre</string>
+    
+    <string name="menu_send_email">Envoyer</string>
+    
+    <string name="title_offre_fragment">Offres</string>
+    <string name="title_favorite_fragment">Favorites</string>
+    <string name="title_recherche_fragment">Recherches</string>
+    <string name="title_depose_fragment">Déposes</string>
+    
+    <string name="suggest_friend">Conseiller à un ami</string>
+    <string name="suggest_friend_title">Une annonce pour vous sur leboncoin.fr: %s</string>
+    <string name="suggest_friend_message">Bonjour,
+								Jai trouve une annonce qui devrait vous interesser sur leboncoin.fr.
+								Voici le lien vers lannonce:
+								%s
+								
+								trai_12t1@yahoo.com
+								Dans certains cas, le lien est inactif. Veuillez alors le copier dans la barre dadresse de votre navigateur.
+								Merci de votre confiance et a tres bientot sur notre site,
+								Lequipe Leboncoin.fr
+								www.leboncoin.fr
+	</string>
+	
+    
+    <string name="widget_name">Leboncoin widget</string>
+    
+</resources>

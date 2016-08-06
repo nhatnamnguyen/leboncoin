@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="media_width">66dip</dimen>
+    
+    <dimen name="default_padding">5dip</dimen>
+
+</resources>

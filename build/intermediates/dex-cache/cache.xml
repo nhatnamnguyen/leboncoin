@@ -12,7 +12,7 @@
         jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="9d4bdeccddd65ef031f894bca72bc8b1a8cfed93">
+        sha1="f134d019846bd570bff8bba399519f7b370efafa">
         <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_100155edce0de324de6aa72b84c2456f3dbeb975\classes.dex" />
     </item>
     <item
@@ -37,6 +37,13 @@
         <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_ece84175463cafd075453dbe6710f9a11c3f7371\classes.dex" />
     </item>
     <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\com.viewpagerindicator-library-2.4.1_7978df1677096d127538bdcff40e623197b1fdc8\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\trai_\.gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2.1\5584627487e984c03456266d3f8802eb85a9ce97\tagsoup-1.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
@@ -54,7 +61,7 @@
         jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="a16b8d67a363c87f05d6ccf6a70945f59b4ae46d">
+        sha1="209d07dbb22ede42be6f02b0c70c89307e8982be">
         <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2158c2466468f6a3345d7926d00d9c62c85bed04\classes.dex" />
     </item>
 

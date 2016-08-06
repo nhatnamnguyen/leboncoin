@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="par_pro_arrays">
+        <item>Particuliers et Professionnels</item>
+        <item>Particuliers</item>
+        <item>Professionnels</item>
+    </string-array>
+    <string-array name="par_pro_key_arrays">
+        <item>a</item>
+        <item>p</item>
+        <item>c</item>
+    </string-array>
+    
+    <string-array name="take_choose_photo_arrays">
+        <item>Prendre une photo</item>
+        <item>Choisir une photo</item>
+    </string-array>
+    
+    <string-array name="region_array">
+        <item>Région</item>
+        <item>Alsace</item>
+        <item>Aquitaine</item>
+        <item>Auvergne</item>
+        <item>Basse-Normandie</item>
+		<item>Bourgogne</item>
+		<item>Bretagne</item>
+		<item>Centre</item>
+		<item>Champagne-Ardenne</item>
+		<item>Corse</item>
+		<item>Franche-Comté</item>
+		<item>Haute-Normandie</item>
+		<item>Ile-de-France</item>
+		<item>Languedoc-Roussillon</item>
+		<item>Limousin</item>
+		<item>Lorraine</item>
+		<item>Midi-Pyrénées</item>
+		<item>Nord-Pas-de-Calais</item>
+		<item>Pays de la Loire</item>
+		<item>Picardie</item>
+		<item>Poitou-Charentes</item>
+		<item>Provence-Alpes-Côte dAzur</item>
+		<item>Rhône-Alpes</item>
+		<item>Guadeloupe</item>
+		<item>Martinique</item>
+		<item>Guyane</item>
+		<item>Réunion</item>
+    </string-array>
+    
+    <string-array name="region_google_array">
+        <item>Tout la France</item>
+        <item>Alsace</item>
+        <item>Aquitaine</item>
+        <item>Auvergne</item>
+        <item>Basse-Normandie</item>
+		<item>Bourgogne</item>
+		<item>Bretagne</item>
+		<item>Centre</item>
+		<item>Champagne-Ardenne</item>
+		<item>Corse</item>
+		<item>Franche-Comté</item>
+		<item>Haute-Normandie</item>
+		<item>Ile-de-France</item>
+		<item>Languedoc-Roussillon</item>
+		<item>Limousin</item>
+		<item>Lorraine</item>
+		<item>Midi-Pyrénées</item>
+		<item>Nord-Pas-de-Calais</item>
+		<item>Pays de la Loire</item>
+		<item>Picardie</item>
+		<item>Poitou-Charentes</item>
+		<item>"Provence-Alpes-Côte d'Azur"</item>
+		<item>Rhône-Alpes</item>
+		<item>Guadeloupe</item>
+		<item>Martinique</item>
+		<item>Guyane</item>
+		<item>Réunion</item>
+    </string-array>
+    
+    
+    
+    <string-array name="category_array">
+        <item>Catégorie</item>
+		<item>VEHICULES</item>
+		<item>Voitures</item>
+		<item>Motos</item>
+		<item>Caravaning</item>
+		<item>Utilitaires</item>
+		<item>Equipement Auto</item>
+		<item>Equipement Moto</item>
+		<item>Equipement Caravaning</item>
+		<item>Nautisme</item>
+		<item>Equipement Nautisme</item>
+		<item>IMMOBILIER</item>
+		<item>Ventes immobilières</item>
+		<item>Locations</item>
+		<item>Colocations</item>
+		<item>Locations de vacances</item>
+		<item>Bureaux &amp; Commerces</item>
+		<item> MULTIMEDIA</item>
+		<item>Informatique</item>
+		<item>Consoles &amp; Jeux vidéo</item>
+		<item>Image &amp; Son</item>
+		<item>Téléphonie</item>
+		<item>MAISON</item>
+		<item>Ameublement</item>
+		<item>Electroménager</item>
+		<item>Arts de la table</item>
+		<item>Décoration</item>
+		<item>Linge de maison</item>
+		<item>Bricolage</item>
+		<item>Jardinage</item>
+		<item>Vêtements</item>
+		<item>Chaussures</item>
+		<item>Accessoires &amp; Bagagerie</item>
+		<item>Montres &amp; Bijoux</item>
+		<item>Equipement bébé</item>
+		<item>Vêtements bébé</item>
+		<item>LOISIRS</item>
+		<item>DVD / Films</item>
+		<item>CD / Musique</item>
+		<item>Livres</item>
+		<item>Animaux</item>
+		<item>Vélos</item>
+		<item>Sports &amp; Hobbies</item>
+		<item>Instruments de musique</item>
+		<item>Collection</item>
+		<item>Jeux &amp; Jouets</item>
+		<item>Vins &amp; Gastronomie</item>
+		<item>EMPLOI &amp; SERVICES</item>
+		<item>Matériel professionnel</item>
+		<item>Emploi</item>
+		<item>Services</item>
+		<item>Billetterie</item>
+		<item>Evénements</item>
+		<item>Cours particuliers</item>
+		<item>Autres</item>
+    </string-array>
+    
+    
+</resources>

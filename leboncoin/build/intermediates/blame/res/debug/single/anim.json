@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\dev\\workspace-android-studio\\leboncoin\\leboncoin\\src\\main\\res\\anim\\push_down_out.xml"
+    }
+]

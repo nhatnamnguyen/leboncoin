@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="@dimen/default_padding" >
+
+     <ImageView android:id="@+id/map_all_regions"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/map_all_regions" />
+   
+    <ImageView android:id="@+id/map_all_data_regions"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/map_data_regions"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+    
+    <ImageView android:id="@+id/map_selected_region"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:layout_centerInParent="true"/>
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+    
+	    <TextView android:id="@+id/selected_region"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1.0"
+	        android:gravity="center_horizontal"
+	        android:layout_margin="@dimen/default_padding"
+	        android:textSize="20dip"
+	        android:text="Veuillez choisir une région"/>
+	    
+	    <Button  android:id="@+id/region_ok"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="right|center_vertical"
+	        android:minWidth="20dip"
+	        android:enabled="false"
+	        android:text="Ok"/>
+	    
+	</LinearLayout>
+    
+</RelativeLayout>
