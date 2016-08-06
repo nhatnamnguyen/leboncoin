@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\libs\commons-codec-1.9.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_bf278afc273c5f774e3f5e6dbf47e9e6d5af111e\classes.dex" />
+    </item>
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9d4bdeccddd65ef031f894bca72bc8b1a8cfed93">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_100155edce0de324de6aa72b84c2456f3dbeb975\classes.dex" />
+    </item>
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\libs\fluent-hc-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bfdfa49de6d720ad3c8cedb6a5238eec564dfed">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.5.2_3312e21722689ca83975f27c10372df6b8743998\classes.dex" />
+    </item>
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\com.actionbarsherlock-actionbarsherlock-4.4.0_92ec99299dda6dc5e795f148a00a50beec9ecc91\classes.dex" />
+    </item>
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_ece84175463cafd075453dbe6710f9a11c3f7371\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\trai_\.gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2.1\5584627487e984c03456266d3f8802eb85a9ce97\tagsoup-1.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5584627487e984c03456266d3f8802eb85a9ce97">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\tagsoup-1.2.1_ef74f3fae0da05fc92d1b343fdfaa1ff92e26f77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\trai_\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_47e9483d2277e7c851230db5673851205965be82\classes.dex" />
+    </item>
+    <item
+        jar="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a16b8d67a363c87f05d6ccf6a70945f59b4ae46d">
+        <dex dex="C:\dev\workspace-android-studio\leboncoin\leboncoin\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2158c2466468f6a3345d7926d00d9c62c85bed04\classes.dex" />
+    </item>
+
+</items>
